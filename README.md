@@ -25,7 +25,7 @@ The **HeisenVec dataset** is available on Hugging Face: [aimagelab/HeisenVec](ht
 
 Our SVG standardization parser introduces minimal error, if any, as shown in the comparison below:
 
-[View Parser Comparison (PDF)](images/sup_parsing_comparison.pdf)
+[View Parser Comparison (PDF)](images/parsing_comparison.pdf)
 
 The comparison demonstrates that the standardization process preserves visual fidelity while normalizing the SVG structure.
 
